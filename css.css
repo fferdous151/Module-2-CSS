@@ -1,0 +1,38 @@
+
+.header{
+    text-align: left;
+    color: azure;
+    background-color: blueviolet;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.list{
+    
+    color: azure;
+    background-color: blueviolet;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.github{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    background-color: aqua;
+}
+.img{
+    text-align: center;
+    
+}
+.input{
+    text-align: center;
+    color: azure;
+    background-color: blueviolet;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.span{
+    color: brown;
+}
